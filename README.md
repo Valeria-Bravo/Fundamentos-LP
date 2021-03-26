@@ -1,5 +1,4 @@
 INTEGRANTES:
 
 - Héctor Antonio Ávila Gonzales.
-
- -Valeria Esperanza Bravo Saines. 
+- Valeria Esperanza Bravo Saines.
