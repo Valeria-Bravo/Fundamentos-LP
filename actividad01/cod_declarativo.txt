@@ -1,0 +1,4 @@
+euclides(A,0,A).
+euclides(A,B,R):- B>0,
+    T is A mod B,
+    euclides(B,T,R)
