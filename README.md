@@ -1,6 +1,5 @@
 INTEGRANTES:
 
-Héctor Antonio Ávila Gonzales.
-Valeria Esperanza Bravo Saines.
-Gustavo Alexander Flores Vera.
-Ronald Fabricio Centeno Cárdenas
+- Héctor Antonio Ávila Gonzales.
+
+ -Valeria Esperanza Bravo Saines. 
