@@ -1,0 +1,20 @@
+<html ><body >
+    <script src = "ramda.min.js"> </script>
+    <script>
+    
+    function square(x){return (x*x);}
+    function mymap (arr, f, mapa=[]){
+    
+       for(i=0; i<arr.length; i++){         
+          mapa.push(f(arr[i]))
+       }
+       return mapa;
+    }
+    
+    result1=mymap([1 ,2, 3, 4, 5],square);
+    result2=mymap([1 , 4, 9 , 16 , 25],Math.sqrt);
+    document.write("result1:", result1,"<br>");
+    document.write(" result2:", result2 );
+    
+    </script>
+    </body></html>

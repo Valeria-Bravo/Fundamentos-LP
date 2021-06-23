@@ -1,0 +1,16 @@
+  
+<html><body>
+    <script src = "ramda.min.js"> </script>
+    <script>
+       function square (x) { return (x*x); }
+       function double (x) { return (x*2) ; }
+    
+       function composedValue (fn1,fn2,value) {
+        return (`${fn1(fn2(value))}`);
+    }
+    
+        document.write(composedValue(square,double,3));
+    
+    </script></body>
+    </html>
+
